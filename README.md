@@ -9,8 +9,8 @@ Córdoba, España | saulfn1996@gmail.com | linkedin.com/in/saúlfísicanavas
 
 - **Backend:** Java (Spring Boot), API REST, JSON, C#, Python
 - **Frontend & Data:** Streamlit, Pandas, Plotly, JavaScript, HTML/CSS
-- **Bases de Datos:** SQL, MySQL, PostgreSQL, H2
-- **Herramientas & Entornos:** Git, GitHub, IntelliJ IDEA, VS Code, Eclipse, Android Studio
+- **Bases de Datos & Cloud:** SQL, MySQL, PostgreSQL, H2, Firebase
+- **Herramientas & Entornos:** Git, GitHub, IntelliJ IDEA, VS Code, Eclipse, Android Studio, NetBeans, Unity
 
 ---
 
