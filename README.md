@@ -24,7 +24,7 @@ Aplicación completa basada en una arquitectura desacoplada: backend emisor de s
 
 ---
 
-## ⚙️ Habilidades Clave Demostradas
+## ⚙️ Habilidades Clave
 - Integración de sistemas en diferentes lenguajes (Java ↔ Python).
 - Resolución de conflictos en tipos de datos y ordenación lógica en interfaces de usuario.
 - Documentación de código y estandarización de comandos multiplataforma.
